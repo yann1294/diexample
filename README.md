@@ -1,4 +1,4 @@
-# hello-world-spring-4
-Hello World Example with Spring 4
+#Spring Dependency Injection and Active Profiles
+Spring Dependency Injection and Active Profiles
 
-See more at springframework.guru
+
